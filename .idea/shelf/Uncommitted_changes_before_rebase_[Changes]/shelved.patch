@@ -1,0 +1,18 @@
+Index: src/components/Navbar/Navbar.module.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>.nav{\r\n    grid-area: n;\r\n    background-color: midnightblue;\r\n}\r\n.item{\r\n    color:white;\r\n}\r\n.item.active{\r\n    color:gold;\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/components/Navbar/Navbar.module.css b/src/components/Navbar/Navbar.module.css
+--- a/src/components/Navbar/Navbar.module.css	(revision 4f83d958c719f232c1091571fb585aed3d7f44a3)
++++ b/src/components/Navbar/Navbar.module.css	(date 1723323860599)
+@@ -5,6 +5,3 @@
+ .item{
+     color:white;
+ }
+-.item.active{
+-    color:gold;
+-}
+\ No newline at end of file

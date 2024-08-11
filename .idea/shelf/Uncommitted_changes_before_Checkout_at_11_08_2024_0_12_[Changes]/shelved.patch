@@ -1,0 +1,46 @@
+Index: src/components/Dialogs/Dialogs.jsx
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import React from 'react';\r\nimport s from './Dialogs.module.css'\r\n\r\nconst Dialogs = (props) => {\r\n    return (\r\n        <div>\r\n            Dialogs\r\n        </div>\r\n    )\r\n\r\n\r\n\r\n}\r\n\r\nexport default Dialogs;
+===================================================================
+diff --git a/src/components/Dialogs/Dialogs.jsx b/src/components/Dialogs/Dialogs.jsx
+--- a/src/components/Dialogs/Dialogs.jsx	
++++ b/src/components/Dialogs/Dialogs.jsx	
+@@ -1,5 +1,5 @@
+ import React from 'react';
+-import s from './Dialogs.module.css'
++import  './Dialogs.module.css'
+ 
+ const Dialogs = (props) => {
+     return (
+Index: src/components/Profile/Profile.jsx
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import React from \"react\";\r\nimport s from './Profile.module.css';\r\nimport MyPosts from \"./MyPosts/MyPosts\";\r\n\r\nconst Profile = () => {\r\n    return (<div>\r\n            <div>\r\n                <img src='https://s15543.pcdn.co/wp-content/uploads/2018/02/digitalskyscrapperswithw_493794-875x350.jpg'\r\n                     alt='sky'/>\r\n            </div>\r\n            <div>ava + description</div>\r\n            <MyPosts/>\r\n        </div>\r\n    )\r\n}\r\n\r\nexport default Profile;
+===================================================================
+diff --git a/src/components/Profile/Profile.jsx b/src/components/Profile/Profile.jsx
+--- a/src/components/Profile/Profile.jsx	
++++ b/src/components/Profile/Profile.jsx	
+@@ -1,5 +1,5 @@
+ import React from "react";
+-import s from './Profile.module.css';
++import './Profile.module.css';
+ import MyPosts from "./MyPosts/MyPosts";
+ 
+ const Profile = () => {
+Index: src/components/Navbar/Navbar.module.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>.nav{\r\n    grid-area: n;\r\n    background-color: midnightblue;\r\n}\r\n.item{\r\n    color:white;\r\n}\r\n.item.active{\r\n    color:gold;\r\n}
+===================================================================
+diff --git a/src/components/Navbar/Navbar.module.css b/src/components/Navbar/Navbar.module.css
+--- a/src/components/Navbar/Navbar.module.css	
++++ b/src/components/Navbar/Navbar.module.css	
+@@ -5,6 +5,3 @@
+ .item{
+     color:white;
+ }
+-.item.active{
+-    color:gold;
+-}
+\ No newline at end of file
