@@ -3,14 +3,24 @@ import './App.css';
 import Header from "./componets/Header/Header";
 import Navbar from "./componets/Navbar/Navbar";
 import Profile from "./componets/Profile/Profile";
+import Dialogs from "./componets/Dialogs/Dialogs";
+import {BrowserRouter, Routes, Route} from "react-router-dom";
 
-const  App = () => {
+const App = (props) => {
     return (
-        <div className='app-wrapper'>
-            <Header/>
-            <Navbar/>
-            <Profile/>
-        </div>
+        <BrowserRouter>
+            <div className='app-wrapper'>
+                <Header/>
+                <Navbar/>
+                <div className='app-wrapper-content'>
+                    <Routes>
+                        <Route path='/dialogs' element={<Dialogs/>}/>
+                        <Route path='/profile' element={<Profile/>}/>
+                    </Routes>
+
+                </div>
+            </div>
+        </BrowserRouter>
     );
 }
 

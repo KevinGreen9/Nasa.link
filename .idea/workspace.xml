@@ -6,10 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="51ca29af-7e7c-4a5c-a365-e59881081d9c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/componets/Profile/MyPosts/MyPost.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/componets/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/componets/Profile/MyPosts/Post/Post.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/componets/Profile/MyPosts/Post/Post.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/componets/Navbar/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/componets/Navbar/Navbar.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/componets/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/componets/Profile/Profile.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/componets/Profile/Profile.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/componets/Profile/Profile.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +157,7 @@
       <workItem from="1722932662501" duration="23258000" />
       <workItem from="1723324682497" duration="652000" />
       <workItem from="1723359486033" duration="596000" />
-      <workItem from="1723364481474" duration="28657000" />
+      <workItem from="1723364481474" duration="30857000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize project using Create React App">
       <option name="closed" value="true" />
@@ -244,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723400677787</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="posts">
+      <option name="closed" value="true" />
+      <created>1723412259318</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1723412259318</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,6 +338,7 @@
     <MESSAGE value="component Dialogs" />
     <MESSAGE value="css" />
     <MESSAGE value="components" />
-    <option name="LAST_COMMIT_MESSAGE" value="components" />
+    <MESSAGE value="posts" />
+    <option name="LAST_COMMIT_MESSAGE" value="posts" />
   </component>
 </project>
