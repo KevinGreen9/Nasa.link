@@ -3,7 +3,7 @@ import s from './MyPosts.module.css';
 import Post from './Post/Post';
 
 
-const MyPosts = () => {
+const MyPosts = (props) => {
     return (
         <div>
             My Posts
@@ -12,12 +12,12 @@ const MyPosts = () => {
                 <button>Add post</button>
             </div>
             <div className={s.posts}>
-                <Post/>
-                <Post/>
-                <Post/>
-                <Post/>
+                <Post message="Hi, how are you" like="15"/>
+                <Post message="This is my first post" like="18"/>
+
             </div>
         </div>
     )
 }
- export default MyPosts;
+
+export default MyPosts;
