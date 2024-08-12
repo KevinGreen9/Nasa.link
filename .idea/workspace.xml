@@ -6,12 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="51ca29af-7e7c-4a5c-a365-e59881081d9c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/componets/Navbar/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/componets/Navbar/Navbar.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/componets/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/componets/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/componets/Profile/MyPosts/MyPosts.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/componets/Profile/MyPosts/MyPosts.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/componets/Profile/MyPosts/Post/Post.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/componets/Profile/MyPosts/Post/Post.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/componets/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/componets/Profile/Profile.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +152,7 @@
       <workItem from="1722932662501" duration="23258000" />
       <workItem from="1723324682497" duration="652000" />
       <workItem from="1723359486033" duration="596000" />
-      <workItem from="1723364481474" duration="37968000" />
+      <workItem from="1723364481474" duration="41774000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize project using Create React App">
       <option name="closed" value="true" />
@@ -278,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723417023910</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="route+props">
+      <option name="closed" value="true" />
+      <created>1723446181879</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1723446181879</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -365,6 +369,7 @@
     <MESSAGE value="route" />
     <MESSAGE value="NavLink" />
     <MESSAGE value="verstka" />
-    <option name="LAST_COMMIT_MESSAGE" value="verstka" />
+    <MESSAGE value="route+props" />
+    <option name="LAST_COMMIT_MESSAGE" value="route+props" />
   </component>
 </project>
