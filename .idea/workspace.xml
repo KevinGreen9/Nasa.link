@@ -6,16 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="51ca29af-7e7c-4a5c-a365-e59881081d9c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPosts.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyPosts.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Post.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Post.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Profile.jsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Profile.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/componets/Navbar/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/componets/Navbar/Navbar.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/componets/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/componets/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/componets/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/componets/Profile/Profile.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -162,7 +157,7 @@
       <workItem from="1723324682497" duration="652000" />
       <workItem from="1723359486033" duration="596000" />
       <workItem from="1723364481474" duration="44100000" />
-      <workItem from="1723641438914" duration="29746000" />
+      <workItem from="1723641438914" duration="32439000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize project using Create React App">
       <option name="closed" value="true" />
@@ -332,7 +327,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724404249880</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="onclick">
+      <option name="closed" value="true" />
+      <created>1724436405054</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1724436405054</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -425,7 +428,8 @@
     <MESSAGE value="structura" />
     <MESSAGE value="вынос данных в index.js" />
     <MESSAGE value="state.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="state.js" />
+    <MESSAGE value="onclick" />
+    <option name="LAST_COMMIT_MESSAGE" value="onclick" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
