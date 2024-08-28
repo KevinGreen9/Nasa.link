@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="51ca29af-7e7c-4a5c-a365-e59881081d9c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/componets/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/componets/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/componets/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/componets/Profile/Profile.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -153,7 +156,7 @@
       <workItem from="1723359486033" duration="596000" />
       <workItem from="1723364481474" duration="44100000" />
       <workItem from="1723641438914" duration="44602000" />
-      <workItem from="1724778780956" duration="3369000" />
+      <workItem from="1724778780956" duration="6144000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize project using Create React App">
       <option name="closed" value="true" />
@@ -355,7 +358,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724656185637</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="store,state">
+      <option name="closed" value="true" />
+      <created>1724786355437</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1724786355437</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -451,6 +462,7 @@
     <MESSAGE value="onclick" />
     <MESSAGE value="callback" />
     <MESSAGE value="flux" />
-    <option name="LAST_COMMIT_MESSAGE" value="flux" />
+    <MESSAGE value="store,state" />
+    <option name="LAST_COMMIT_MESSAGE" value="store,state" />
   </component>
 </project>
