@@ -1,5 +1,5 @@
 import reportWebVitals from './reportWebVitals';
-import store from "./Redux/state";
+import store from "./Redux/store";
 import ReactDOM from "react-dom/client";
 import {BrowserRouter} from "react-router-dom";
 import React from "react";
