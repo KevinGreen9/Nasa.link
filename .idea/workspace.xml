@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="51ca29af-7e7c-4a5c-a365-e59881081d9c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/componets/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/componets/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,7 +155,7 @@
       <workItem from="1723359486033" duration="596000" />
       <workItem from="1723364481474" duration="44100000" />
       <workItem from="1723641438914" duration="44602000" />
-      <workItem from="1724778780956" duration="28991000" />
+      <workItem from="1724778780956" duration="30721000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize project using Create React App">
       <option name="closed" value="true" />
@@ -404,7 +405,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725251419512</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="refactor">
+      <option name="closed" value="true" />
+      <created>1725607824891</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1725607824891</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,7 +489,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initialize project using Create React App" />
     <MESSAGE value="new components" />
     <MESSAGE value="props" />
     <MESSAGE value="component Dialogs" />
@@ -505,6 +513,7 @@
     <MESSAGE value="message" />
     <MESSAGE value="check" />
     <MESSAGE value="reducer" />
-    <option name="LAST_COMMIT_MESSAGE" value="reducer" />
+    <MESSAGE value="refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
   </component>
 </project>
