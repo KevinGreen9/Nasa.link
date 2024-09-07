@@ -7,8 +7,8 @@
     <list default="true" id="51ca29af-7e7c-4a5c-a365-e59881081d9c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/componets/Profile/MyPosts/MyPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/componets/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/componets/Profile/Profile.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/componets/Profile/Profile.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +155,7 @@
       <workItem from="1723359486033" duration="596000" />
       <workItem from="1723364481474" duration="44100000" />
       <workItem from="1723641438914" duration="44602000" />
-      <workItem from="1724778780956" duration="42263000" />
+      <workItem from="1724778780956" duration="46616000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize project using Create React App">
       <option name="closed" value="true" />
@@ -421,7 +421,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725609742568</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="container component">
+      <option name="closed" value="true" />
+      <created>1725696863438</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1725696863438</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -497,7 +505,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="props" />
     <MESSAGE value="component Dialogs" />
     <MESSAGE value="css" />
     <MESSAGE value="components" />
@@ -522,6 +529,7 @@
     <MESSAGE value="reducer" />
     <MESSAGE value="refactor" />
     <MESSAGE value="redux" />
-    <option name="LAST_COMMIT_MESSAGE" value="redux" />
+    <MESSAGE value="container component" />
+    <option name="LAST_COMMIT_MESSAGE" value="container component" />
   </component>
 </project>
