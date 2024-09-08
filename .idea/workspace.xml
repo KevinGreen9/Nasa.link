@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="51ca29af-7e7c-4a5c-a365-e59881081d9c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +152,7 @@
       <workItem from="1723359486033" duration="596000" />
       <workItem from="1723364481474" duration="44100000" />
       <workItem from="1723641438914" duration="44602000" />
-      <workItem from="1724778780956" duration="52520000" />
+      <workItem from="1724778780956" duration="56409000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize project using Create React App">
       <option name="closed" value="true" />
@@ -443,7 +442,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725733588880</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="copy profileReducer">
+      <option name="closed" value="true" />
+      <created>1725779980577</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1725779980577</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -519,7 +526,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="components" />
     <MESSAGE value="posts" />
     <MESSAGE value="route" />
     <MESSAGE value="NavLink" />
@@ -544,6 +550,7 @@
     <MESSAGE value="container component" />
     <MESSAGE value="context API" />
     <MESSAGE value="connect, mapStateToProps, mapDispatchToProps" />
-    <option name="LAST_COMMIT_MESSAGE" value="connect, mapStateToProps, mapDispatchToProps" />
+    <MESSAGE value="copy profileReducer" />
+    <option name="LAST_COMMIT_MESSAGE" value="copy profileReducer" />
   </component>
 </project>
