@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="51ca29af-7e7c-4a5c-a365-e59881081d9c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/componets/Navbar/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/componets/Navbar/Navbar.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +152,7 @@
       <workItem from="1723359486033" duration="596000" />
       <workItem from="1723364481474" duration="44100000" />
       <workItem from="1723641438914" duration="44602000" />
-      <workItem from="1724778780956" duration="82666000" />
+      <workItem from="1724778780956" duration="85254000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize project using Create React App">
       <option name="closed" value="true" />
@@ -491,7 +490,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726041022761</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="extends React.Component">
+      <option name="closed" value="true" />
+      <created>1726043802531</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1726043802531</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -567,7 +574,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="route+props" />
     <MESSAGE value="UI-BLL" />
     <MESSAGE value="map" />
     <MESSAGE value="structura" />
@@ -592,6 +598,7 @@
     <MESSAGE value="refactor" />
     <MESSAGE value="Api" />
     <MESSAGE value="side effect" />
-    <option name="LAST_COMMIT_MESSAGE" value="side effect" />
+    <MESSAGE value="extends React.Component" />
+    <option name="LAST_COMMIT_MESSAGE" value="extends React.Component" />
   </component>
 </project>
