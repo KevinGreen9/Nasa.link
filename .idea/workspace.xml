@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="51ca29af-7e7c-4a5c-a365-e59881081d9c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +152,7 @@
       <workItem from="1723359486033" duration="596000" />
       <workItem from="1723364481474" duration="44100000" />
       <workItem from="1723641438914" duration="44602000" />
-      <workItem from="1724778780956" duration="77447000" />
+      <workItem from="1724778780956" duration="80705000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize project using Create React App">
       <option name="closed" value="true" />
@@ -476,7 +474,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725955928677</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Api">
+      <option name="closed" value="true" />
+      <created>1725962846875</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1725962846875</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -552,7 +558,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="NavLink" />
     <MESSAGE value="verstka" />
     <MESSAGE value="route+props" />
     <MESSAGE value="UI-BLL" />
@@ -577,18 +582,7 @@
     <MESSAGE value="copy DialogReducer" />
     <MESSAGE value="users" />
     <MESSAGE value="refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/componets/Users/Users.jsx</url>
-          <line>11</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Api" />
+    <option name="LAST_COMMIT_MESSAGE" value="Api" />
   </component>
 </project>
