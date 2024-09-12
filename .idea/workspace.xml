@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="51ca29af-7e7c-4a5c-a365-e59881081d9c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Redux/users-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Redux/users-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/componets/Users/Users.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/componets/Users/Users.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/componets/Users/UsersContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/componets/Users/UsersContainer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/users.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/users.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +156,7 @@
       <workItem from="1723359486033" duration="596000" />
       <workItem from="1723364481474" duration="44100000" />
       <workItem from="1723641438914" duration="44602000" />
-      <workItem from="1724778780956" duration="85254000" />
+      <workItem from="1724778780956" duration="100591000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize project using Create React App">
       <option name="closed" value="true" />
@@ -498,7 +502,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726043802531</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="extends React.Component">
+      <option name="closed" value="true" />
+      <created>1726056373321</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1726056373321</updated>
+    </task>
+    <task id="LOCAL-00045" summary="componentDidMount">
+      <option name="closed" value="true" />
+      <created>1726056466095</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1726056466095</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -574,7 +594,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="UI-BLL" />
     <MESSAGE value="map" />
     <MESSAGE value="structura" />
     <MESSAGE value="вынос данных в index.js" />
@@ -599,6 +618,7 @@
     <MESSAGE value="Api" />
     <MESSAGE value="side effect" />
     <MESSAGE value="extends React.Component" />
-    <option name="LAST_COMMIT_MESSAGE" value="extends React.Component" />
+    <MESSAGE value="componentDidMount" />
+    <option name="LAST_COMMIT_MESSAGE" value="componentDidMount" />
   </component>
 </project>
