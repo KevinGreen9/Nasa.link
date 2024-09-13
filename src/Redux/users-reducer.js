@@ -1,5 +1,3 @@
-
-
 const FOLLOW = 'FOLLOW';
 const UNFOLLOW = 'UNFOLLOW';
 const SET_USERS = 'SET_USERS';
@@ -8,7 +6,7 @@ const SET_TOTAL_USERS_COUNT = 'SET_TOTAL_USERS_COUNT';
 
 let initialState = {
     users: [ ],
-    pageSize: 10,
+    pageSize: 5,
     totalUsersCount: 0,
     currentPage: 1
 };
